@@ -1,0 +1,1 @@
+Basic template for discord bots using discord.js. Uses "type:module" because I like importing things. 
